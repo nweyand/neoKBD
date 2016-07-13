@@ -1,0 +1,6 @@
+[submodule "deNeTa_Src/3rdparty/TI/driverlib"]
+	path = deNeTa_Src/3rdparty/TI/driverlib
+	url = git@github.com:nweyand/TI_MSP430_DriverLib.git
+[submodule "deNeTa_Src/3rdparty/TI/USB_API"]
+	path = deNeTa_Src/3rdparty/TI/USB_API
+	url = git@github.com:nweyand/TI_MSP430_USB_API.git
